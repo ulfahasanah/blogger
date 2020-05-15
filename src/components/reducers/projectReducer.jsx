@@ -18,7 +18,7 @@ const initState = {
             lastName: "hasanah",
             date: new Date().toDateString(),
             isFav: true,
-            totalFavorites: 1
+            totalFavorites: 3
         },
         {
             id: 3, 
